@@ -1,6 +1,6 @@
 import  { useState } from 'react'
 import  './Login.css' 
-import logo from '../../../src/assets/Logo.png'
+import logo from '../../../src/assets/logo.png'
 import {login, signup } from '../../firebase'
 import netflix_spinner from '../../assets/netflix_spinner.gif'
 
