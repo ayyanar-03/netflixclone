@@ -1,8 +1,34 @@
-# React + Vite
+# Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Netflix Clone built using React and Vite. It features a modern UI, authentication, and streaming-like experience.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Access the live application here: [Netflix Clone](https://netflixclone-nine-iota.vercel.app/login)
+
+## Features
+
+- User authentication (login/signup)
+- Browse movies and TV shows
+- Responsive design
+- Fast Refresh with Vite
+
+## Getting Started
+
+1. **Install dependencies:**
+   ```
+   npm install
+   ```
+2. **Run the development server:**
+   ```
+   npm run dev
+   ```
+3. **Build for production:**
+   ```
+   npm run build
+   ```
+
+## Plugins Used
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) (Babel for Fast Refresh)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) (SWC for Fast Refresh)
