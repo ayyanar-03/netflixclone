@@ -4,7 +4,6 @@ This project is a Netflix Clone built using React and Vite. It features a modern
 
 ## Live Demo
 
-Access the live application here:[netflix clone](https://netflixclone-8bcvlegfu-ayyanar-s-projects.vercel.app/login)
 ## Features
 
 - User authentication (login/signup)
